@@ -49,7 +49,7 @@ The main goal of this project is to help students understand how different disk 
 ## ⚙️ How It Works
 
 1. User inputs:
-   - Disk size  
+   
    - Initial head position  
    - Disk request queue  
 2. User selects a disk scheduling algorithm  
